@@ -1,0 +1,22 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    color: red;
+}
+
+h1:hover {
+    color: yellowgreen;
+}
+
+p {
+    column-count: 3;
+    column-rule: 2px solid red;
+    column-gap: 40px;
+}
+
+p::selection {
+    color: red;
+    background-color: pink;
+}
