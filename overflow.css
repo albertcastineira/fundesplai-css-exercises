@@ -1,0 +1,14 @@
+div {
+    margin: 20px;
+    background-color: greenyellow;
+    width: 30vw;
+    height: 20vh;
+}
+
+.hidden {
+    overflow: hidden;
+}
+
+.scroll {
+    overflow: auto;
+}

@@ -1,0 +1,40 @@
+.square {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: 10px auto;
+    border: 3px solid black;
+}
+
+.circle {
+    background-color: yellow;
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+}
+
+.one {
+    position: relative;
+    top: -5%;
+    left: -5%;
+}
+
+.two {
+    position: relative;
+    top: -18%;
+    left: 95%;
+}
+
+.three {
+    position: relative;
+    top: 68%;
+    left: -5%;
+}
+
+.four {
+    position: relative;
+    top: 56%;
+    left: 95%;
+}

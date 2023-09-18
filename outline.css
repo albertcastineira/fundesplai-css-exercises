@@ -1,0 +1,13 @@
+.box {
+    background-color: red;
+    width: 10vw;
+    margin: 1em;
+    padding: 10px;
+    outline-style: dotted;
+    outline-color: orange;
+    outline-width: 8px;
+}
+
+.box:focus {
+    outline-color: black;
+}
