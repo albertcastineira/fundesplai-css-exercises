@@ -1,0 +1,14 @@
+body {
+    background-color: wheat;
+}
+
+div {
+    margin: 10vh auto;
+    width: 20vh;
+}
+
+input {
+    display: block;
+    margin-bottom: 1.5em;
+    padding: 0px 8px;
+}

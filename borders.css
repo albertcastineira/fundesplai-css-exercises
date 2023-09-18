@@ -1,0 +1,9 @@
+div {
+    width: 25vw;
+    border-left: double black 8px;
+    border-top: dotted red 3px;
+    border-right: dashed blue 4px;
+    border-bottom: solid red 3px;
+    margin: 20vh auto;
+    padding: 10vh;
+}
