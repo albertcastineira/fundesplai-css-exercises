@@ -69,4 +69,10 @@
 ```.!important => This is a special attribute that only affects the current row, not the selector. !important will allways be priorized.```  
 
 ## Flexboxdefense  
-![Final](./assets/Flexboxdefense.PNG)
+![Final](./assets/Flexboxdefense.PNG)  
+
+## Flexfroggy  
+![Final](./assets/Flexfroggy.PNG)  
+
+## Flexboxadventure  
+![Final](./assets/Flexboxadventure.PNG)  
