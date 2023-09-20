@@ -76,3 +76,6 @@
 
 ## Flexboxadventure  
 ![Final](./assets/Flexboxadventure.PNG)  
+
+## Spotify clone  
+[Spotify Responsive landing clone](https://github.com/albertcastineira/fundesplai-spotify-clone)
