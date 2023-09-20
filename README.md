@@ -83,3 +83,7 @@
 ## Grid garden  
 ![Final](./assets/Gridgarden.PNG)  
 
+## Column preview component  
+[Column preview component](https://github.com/albertcastineira/fundesplai-column-preview-css)  
+
+
