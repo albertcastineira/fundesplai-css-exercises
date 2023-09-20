@@ -78,4 +78,8 @@
 ![Final](./assets/Flexboxadventure.PNG)  
 
 ## Spotify clone  
-[Spotify Responsive landing clone](https://github.com/albertcastineira/fundesplai-spotify-clone)
+[Spotify Responsive landing clone](https://github.com/albertcastineira/fundesplai-spotify-clone)  
+
+## Grid garden  
+![Final](./assets/Gridgarden.PNG)  
+
